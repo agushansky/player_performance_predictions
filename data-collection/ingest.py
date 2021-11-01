@@ -180,3 +180,31 @@ def getPossessionStatsPlayers(season='2021-2022'):
     playerdf.columns = [col[1] for col in playerdf.columns.values]
     
     return playerPreprocess(playerdf, season)
+
+def getPlayingTimeStatsSquads(season='2021-2022'):
+    url = f'https://fbref.com/en/comps/Big5/{season}/playingtime/squads/{season}-Big-5-European-Leagues-Stats'
+    teamdf = getDF(url, 'stats_squads_playing_time_for')
+    teamdf.columns = [col[1] for col in teamdf.columns.values]
+    
+    return teamPreprocess(teamdf, season)
+
+def getPlayingTimeStatsPlayers(season='2021-2022'):
+    url = f'https://fbref.com/en/comps/Big5/{season}/playingtime/players/{season}-Big-5-European-Leagues-Stats'
+    playerdf = getDF(url, 'stats_playing_time')
+    playerdf.columns = [col[1] for col in playerdf.columns.values]
+    
+    return playerPreprocess(playerdf, season)
+
+def getMiscStatsSquads(season='2021-2022'):
+    url = f'https://fbref.com/en/comps/Big5/{season}/misc/squads/{season}-Big-5-European-Leagues-Stats'
+    teamdf = getDF(url, 'stats_squads_misc_for')
+    teamdf.columns = [col[1] for col in teamdf.columns.values]
+    
+    return teamPreprocess(teamdf, season)
+
+def getMiscStatsPlayers(season='2021-2022'):
+    url = f'https://fbref.com/en/comps/Big5/{season}/misc/players/{season}-Big-5-European-Leagues-Stats'
+    playerdf = getDF(url, 'stats_misc')
+    playerdf.columns = [col[1] for col in playerdf.columns.values]
+    
+    return playerPreprocess(playerdf, season)
