@@ -17,6 +17,11 @@ def createPlayerID(row):
     m.update((row['Player'] + str(row['Born'])).encode('utf-8'))
     return int(m.hexdigest(), 16) % 100000000000
 
+def getPer90Columns(df, cols):
+    for name in cols:
+        df['Per 90 '+name] = df[name].astype(float) / df['90s'].astype(float)
+    return df
+
 def getDF(url, table_id):
     try:
         r = requests.get(url)
