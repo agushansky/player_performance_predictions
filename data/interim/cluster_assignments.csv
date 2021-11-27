@@ -1,0 +1,393 @@
+,Squad,Season,team_play_style
+0,Alavés,2017-2018,5
+1,Alavés,2018-2019,5
+2,Alavés,2019-2020,5
+3,Alavés,2020-2021,5
+4,Amiens,2017-2018,2
+5,Amiens,2018-2019,5
+6,Amiens,2019-2020,4
+7,Angers,2017-2018,2
+8,Angers,2018-2019,4
+9,Angers,2019-2020,4
+10,Angers,2020-2021,4
+11,Arminia,2020-2021,5
+12,Arsenal,2017-2018,0
+13,Arsenal,2018-2019,1
+14,Arsenal,2019-2020,3
+15,Arsenal,2020-2021,3
+16,Aston Villa,2019-2020,4
+17,Aston Villa,2020-2021,3
+18,Atalanta,2017-2018,1
+19,Atalanta,2018-2019,1
+20,Atalanta,2019-2020,0
+21,Atalanta,2020-2021,0
+22,Athletic Club,2017-2018,2
+23,Athletic Club,2018-2019,5
+24,Athletic Club,2019-2020,5
+25,Athletic Club,2020-2021,3
+26,Atlético Madrid,2017-2018,2
+27,Atlético Madrid,2018-2019,1
+28,Atlético Madrid,2019-2020,1
+29,Atlético Madrid,2020-2021,1
+30,Augsburg,2017-2018,4
+31,Augsburg,2018-2019,2
+32,Augsburg,2019-2020,5
+33,Augsburg,2020-2021,5
+34,Barcelona,2017-2018,0
+35,Barcelona,2018-2019,0
+36,Barcelona,2019-2020,0
+37,Barcelona,2020-2021,0
+38,Bayern Munich,2017-2018,0
+39,Bayern Munich,2018-2019,0
+40,Bayern Munich,2019-2020,0
+41,Bayern Munich,2020-2021,0
+42,Benevento,2017-2018,4
+43,Benevento,2020-2021,3
+44,Betis,2017-2018,2
+45,Betis,2018-2019,3
+46,Betis,2019-2020,3
+47,Betis,2020-2021,3
+48,Bologna,2017-2018,4
+49,Bologna,2018-2019,4
+50,Bologna,2019-2020,1
+51,Bologna,2020-2021,3
+52,Bordeaux,2017-2018,2
+53,Bordeaux,2018-2019,4
+54,Bordeaux,2019-2020,4
+55,Bordeaux,2020-2021,3
+56,Bournemouth,2017-2018,4
+57,Bournemouth,2018-2019,3
+58,Bournemouth,2019-2020,5
+59,Brescia,2019-2020,5
+60,Brest,2019-2020,4
+61,Brest,2020-2021,3
+62,Brighton,2017-2018,5
+63,Brighton,2018-2019,5
+64,Brighton,2019-2020,4
+65,Brighton,2020-2021,3
+66,Burnley,2017-2018,5
+67,Burnley,2018-2019,5
+68,Burnley,2019-2020,5
+69,Burnley,2020-2021,5
+70,Caen,2017-2018,2
+71,Caen,2018-2019,5
+72,Cagliari,2017-2018,5
+73,Cagliari,2018-2019,5
+74,Cagliari,2019-2020,3
+75,Cagliari,2020-2021,3
+76,Cardiff City,2018-2019,5
+77,Celta Vigo,2017-2018,2
+78,Celta Vigo,2018-2019,3
+79,Celta Vigo,2019-2020,3
+80,Celta Vigo,2020-2021,3
+81,Chelsea,2017-2018,1
+82,Chelsea,2018-2019,0
+83,Chelsea,2019-2020,1
+84,Chelsea,2020-2021,0
+85,Chievo,2017-2018,5
+86,Chievo,2018-2019,5
+87,Crotone,2017-2018,5
+88,Crotone,2020-2021,3
+89,Crystal Palace,2017-2018,4
+90,Crystal Palace,2018-2019,4
+91,Crystal Palace,2019-2020,4
+92,Crystal Palace,2020-2021,5
+93,Cádiz,2020-2021,5
+94,Dijon,2017-2018,2
+95,Dijon,2018-2019,4
+96,Dijon,2019-2020,4
+97,Dijon,2020-2021,5
+98,Dortmund,2017-2018,1
+99,Dortmund,2018-2019,0
+100,Dortmund,2019-2020,0
+101,Dortmund,2020-2021,0
+102,Düsseldorf,2018-2019,4
+103,Düsseldorf,2019-2020,4
+104,Eibar,2017-2018,2
+105,Eibar,2018-2019,1
+106,Eibar,2019-2020,5
+107,Eibar,2020-2021,5
+108,Eint Frankfurt,2017-2018,4
+109,Eint Frankfurt,2018-2019,1
+110,Eint Frankfurt,2019-2020,1
+111,Eint Frankfurt,2020-2021,1
+112,Elche,2020-2021,5
+113,Empoli,2018-2019,3
+114,Espanyol,2017-2018,2
+115,Espanyol,2018-2019,4
+116,Espanyol,2019-2020,5
+117,Everton,2017-2018,5
+118,Everton,2018-2019,1
+119,Everton,2019-2020,4
+120,Everton,2020-2021,3
+121,Fiorentina,2017-2018,1
+122,Fiorentina,2018-2019,3
+123,Fiorentina,2019-2020,1
+124,Fiorentina,2020-2021,3
+125,Freiburg,2017-2018,4
+126,Freiburg,2018-2019,3
+127,Freiburg,2019-2020,3
+128,Freiburg,2020-2021,3
+129,Frosinone,2018-2019,5
+130,Fulham,2018-2019,4
+131,Fulham,2020-2021,4
+132,Genoa,2017-2018,4
+133,Genoa,2018-2019,4
+134,Genoa,2019-2020,3
+135,Genoa,2020-2021,5
+136,Getafe,2017-2018,5
+137,Getafe,2018-2019,5
+138,Getafe,2019-2020,5
+139,Getafe,2020-2021,5
+140,Girona,2017-2018,2
+141,Girona,2018-2019,5
+142,Granada,2019-2020,5
+143,Granada,2020-2021,5
+144,Guingamp,2017-2018,2
+145,Guingamp,2018-2019,4
+146,Hamburger SV,2017-2018,4
+147,Hannover 96,2017-2018,4
+148,Hannover 96,2018-2019,4
+149,Hellas Verona,2017-2018,5
+150,Hellas Verona,2019-2020,3
+151,Hellas Verona,2020-2021,3
+152,Hertha BSC,2017-2018,4
+153,Hertha BSC,2018-2019,3
+154,Hertha BSC,2019-2020,4
+155,Hertha BSC,2020-2021,3
+156,Hoffenheim,2017-2018,1
+157,Hoffenheim,2018-2019,1
+158,Hoffenheim,2019-2020,1
+159,Hoffenheim,2020-2021,1
+160,Huddersfield,2017-2018,5
+161,Huddersfield,2018-2019,5
+162,Huesca,2018-2019,4
+163,Huesca,2020-2021,3
+164,Inter,2017-2018,1
+165,Inter,2018-2019,1
+166,Inter,2019-2020,0
+167,Inter,2020-2021,0
+168,Juventus,2017-2018,0
+169,Juventus,2018-2019,0
+170,Juventus,2019-2020,0
+171,Juventus,2020-2021,0
+172,Köln,2017-2018,4
+173,Köln,2019-2020,4
+174,Köln,2020-2021,4
+175,La Coruña,2017-2018,2
+176,Las Palmas,2017-2018,2
+177,Lazio,2017-2018,0
+178,Lazio,2018-2019,1
+179,Lazio,2019-2020,0
+180,Lazio,2020-2021,1
+181,Lecce,2019-2020,3
+182,Leeds United,2020-2021,1
+183,Leganés,2017-2018,5
+184,Leganés,2018-2019,5
+185,Leganés,2019-2020,5
+186,Leicester City,2017-2018,4
+187,Leicester City,2018-2019,1
+188,Leicester City,2019-2020,1
+189,Leicester City,2020-2021,1
+190,Lens,2020-2021,3
+191,Levante,2017-2018,2
+192,Levante,2018-2019,3
+193,Levante,2019-2020,3
+194,Levante,2020-2021,3
+195,Leverkusen,2017-2018,1
+196,Leverkusen,2018-2019,1
+197,Leverkusen,2019-2020,1
+198,Leverkusen,2020-2021,1
+199,Lille,2017-2018,2
+200,Lille,2018-2019,1
+201,Lille,2019-2020,1
+202,Lille,2020-2021,1
+203,Liverpool,2017-2018,0
+204,Liverpool,2018-2019,0
+205,Liverpool,2019-2020,0
+206,Liverpool,2020-2021,0
+207,Lorient,2020-2021,4
+208,Lyon,2017-2018,0
+209,Lyon,2018-2019,0
+210,Lyon,2019-2020,1
+211,Lyon,2020-2021,0
+212,M'Gladbach,2017-2018,1
+213,M'Gladbach,2018-2019,1
+214,M'Gladbach,2019-2020,1
+215,M'Gladbach,2020-2021,1
+216,Mainz 05,2017-2018,4
+217,Mainz 05,2018-2019,2
+218,Mainz 05,2019-2020,4
+219,Mainz 05,2020-2021,4
+220,Mallorca,2019-2020,3
+221,Manchester City,2017-2018,0
+222,Manchester City,2018-2019,0
+223,Manchester City,2019-2020,0
+224,Manchester City,2020-2021,0
+225,Manchester Utd,2017-2018,1
+226,Manchester Utd,2018-2019,1
+227,Manchester Utd,2019-2020,1
+228,Manchester Utd,2020-2021,0
+229,Marseille,2017-2018,0
+230,Marseille,2018-2019,1
+231,Marseille,2019-2020,1
+232,Marseille,2020-2021,3
+233,Metz,2017-2018,2
+234,Metz,2019-2020,4
+235,Metz,2020-2021,4
+236,Milan,2017-2018,1
+237,Milan,2018-2019,1
+238,Milan,2019-2020,1
+239,Milan,2020-2021,1
+240,Monaco,2017-2018,2
+241,Monaco,2018-2019,4
+242,Monaco,2019-2020,1
+243,Monaco,2020-2021,1
+244,Montpellier,2017-2018,2
+245,Montpellier,2018-2019,4
+246,Montpellier,2019-2020,4
+247,Montpellier,2020-2021,3
+248,Málaga,2017-2018,5
+249,Nantes,2017-2018,2
+250,Nantes,2018-2019,4
+251,Nantes,2019-2020,4
+252,Nantes,2020-2021,4
+253,Napoli,2017-2018,0
+254,Napoli,2018-2019,0
+255,Napoli,2019-2020,0
+256,Napoli,2020-2021,0
+257,Newcastle Utd,2017-2018,4
+258,Newcastle Utd,2018-2019,5
+259,Newcastle Utd,2019-2020,5
+260,Newcastle Utd,2020-2021,5
+261,Nice,2017-2018,2
+262,Nice,2018-2019,4
+263,Nice,2019-2020,1
+264,Nice,2020-2021,3
+265,Norwich City,2019-2020,4
+266,Nîmes,2018-2019,4
+267,Nîmes,2019-2020,4
+268,Nîmes,2020-2021,4
+269,Nürnberg,2018-2019,5
+270,Osasuna,2019-2020,5
+271,Osasuna,2020-2021,5
+272,Paderborn 07,2019-2020,4
+273,Paris S-G,2017-2018,0
+274,Paris S-G,2018-2019,0
+275,Paris S-G,2019-2020,0
+276,Paris S-G,2020-2021,0
+277,Parma,2018-2019,5
+278,Parma,2019-2020,3
+279,Parma,2020-2021,3
+280,RB Leipzig,2017-2018,1
+281,RB Leipzig,2018-2019,1
+282,RB Leipzig,2019-2020,1
+283,RB Leipzig,2020-2021,0
+284,Rayo Vallecano,2018-2019,4
+285,Real Madrid,2017-2018,0
+286,Real Madrid,2018-2019,0
+287,Real Madrid,2019-2020,0
+288,Real Madrid,2020-2021,0
+289,Real Sociedad,2017-2018,2
+290,Real Sociedad,2018-2019,3
+291,Real Sociedad,2019-2020,3
+292,Real Sociedad,2020-2021,3
+293,Reims,2018-2019,4
+294,Reims,2019-2020,4
+295,Reims,2020-2021,3
+296,Rennes,2017-2018,2
+297,Rennes,2018-2019,1
+298,Rennes,2019-2020,4
+299,Rennes,2020-2021,1
+300,Roma,2017-2018,0
+301,Roma,2018-2019,1
+302,Roma,2019-2020,0
+303,Roma,2020-2021,0
+304,SPAL,2017-2018,5
+305,SPAL,2018-2019,3
+306,SPAL,2019-2020,3
+307,Saint-Étienne,2017-2018,2
+308,Saint-Étienne,2018-2019,1
+309,Saint-Étienne,2019-2020,4
+310,Saint-Étienne,2020-2021,4
+311,Sampdoria,2017-2018,1
+312,Sampdoria,2018-2019,1
+313,Sampdoria,2019-2020,3
+314,Sampdoria,2020-2021,3
+315,Sassuolo,2017-2018,4
+316,Sassuolo,2018-2019,3
+317,Sassuolo,2019-2020,1
+318,Sassuolo,2020-2021,3
+319,Schalke 04,2017-2018,1
+320,Schalke 04,2018-2019,4
+321,Schalke 04,2019-2020,4
+322,Schalke 04,2020-2021,5
+323,Sevilla,2017-2018,2
+324,Sevilla,2018-2019,1
+325,Sevilla,2019-2020,1
+326,Sevilla,2020-2021,3
+327,Sheffield Utd,2019-2020,5
+328,Sheffield Utd,2020-2021,5
+329,Southampton,2017-2018,4
+330,Southampton,2018-2019,4
+331,Southampton,2019-2020,4
+332,Southampton,2020-2021,4
+333,Spezia,2020-2021,3
+334,Stoke City,2017-2018,5
+335,Strasbourg,2017-2018,2
+336,Strasbourg,2018-2019,3
+337,Strasbourg,2019-2020,4
+338,Strasbourg,2020-2021,3
+339,Stuttgart,2017-2018,4
+340,Stuttgart,2018-2019,4
+341,Stuttgart,2020-2021,1
+342,Swansea City,2017-2018,5
+343,Torino,2017-2018,3
+344,Torino,2018-2019,1
+345,Torino,2019-2020,3
+346,Torino,2020-2021,3
+347,Tottenham,2017-2018,0
+348,Tottenham,2018-2019,1
+349,Tottenham,2019-2020,1
+350,Tottenham,2020-2021,1
+351,Toulouse,2017-2018,2
+352,Toulouse,2018-2019,4
+353,Toulouse,2019-2020,4
+354,Troyes,2017-2018,2
+355,Udinese,2017-2018,4
+356,Udinese,2018-2019,4
+357,Udinese,2019-2020,3
+358,Udinese,2020-2021,3
+359,Union Berlin,2019-2020,5
+360,Union Berlin,2020-2021,3
+361,Valencia,2017-2018,2
+362,Valencia,2018-2019,1
+363,Valencia,2019-2020,3
+364,Valencia,2020-2021,3
+365,Valladolid,2018-2019,4
+366,Valladolid,2019-2020,5
+367,Valladolid,2020-2021,5
+368,Villarreal,2017-2018,2
+369,Villarreal,2018-2019,4
+370,Villarreal,2019-2020,1
+371,Villarreal,2020-2021,3
+372,Watford,2017-2018,4
+373,Watford,2018-2019,4
+374,Watford,2019-2020,4
+375,Werder Bremen,2017-2018,4
+376,Werder Bremen,2018-2019,1
+377,Werder Bremen,2019-2020,4
+378,Werder Bremen,2020-2021,5
+379,West Brom,2017-2018,5
+380,West Brom,2020-2021,5
+381,West Ham,2017-2018,5
+382,West Ham,2018-2019,4
+383,West Ham,2019-2020,4
+384,West Ham,2020-2021,3
+385,Wolfsburg,2017-2018,3
+386,Wolfsburg,2018-2019,1
+387,Wolfsburg,2019-2020,1
+388,Wolfsburg,2020-2021,1
+389,Wolves,2018-2019,4
+390,Wolves,2019-2020,1
+391,Wolves,2020-2021,3
