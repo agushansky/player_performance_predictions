@@ -1,0 +1,52 @@
+,Gls,G-xG,SCA,Ast,xA,TklW,Int,PressuresSucc,Clr,AerialDuelsWon
+prev_squad_to_squad_play_style_0-0,x,,x,x,x,,x,x,x,x
+prev_squad_to_squad_play_style_0-1,,,x,x,x,,x,x,x,
+prev_squad_to_squad_play_style_0-2,,,,,x,,x,,,
+prev_squad_to_squad_play_style_0-3,,,,,x,,x,x,,
+prev_squad_to_squad_play_style_0-4,,,,,x,,x,,,
+prev_squad_to_squad_play_style_0-5,,,,,x,,x,x,,
+prev_squad_to_squad_play_style_1-0,,,,x,x,x,x,x,,x
+prev_squad_to_squad_play_style_1-1,,,x,x,x,x,x,x,x,
+prev_squad_to_squad_play_style_1-2,,,,x,x,,x,,,x
+prev_squad_to_squad_play_style_1-3,,,,,x,,x,x,,
+prev_squad_to_squad_play_style_1-4,,,x,,x,,x,,x,x
+prev_squad_to_squad_play_style_1-5,,,x,x,x,,x,,,
+prev_squad_to_squad_play_style_2-0,,,,,,,x,x,,
+prev_squad_to_squad_play_style_2-1,,,,,x,,x,,,
+prev_squad_to_squad_play_style_2-2,,,x,x,x,x,x,x,x,x
+prev_squad_to_squad_play_style_2-3,,,,,x,,x,,,
+prev_squad_to_squad_play_style_2-4,,,,,x,,x,,,
+prev_squad_to_squad_play_style_2-5,,,,,x,,x,,,x
+prev_squad_to_squad_play_style_3-0,,,,,x,,x,,x,x
+prev_squad_to_squad_play_style_3-1,,,,x,,,x,x,x,
+prev_squad_to_squad_play_style_3-2,,,,,,,,,,
+prev_squad_to_squad_play_style_3-3,,,x,x,x,x,x,x,x,x
+prev_squad_to_squad_play_style_3-4,,,x,,x,,x,,,
+prev_squad_to_squad_play_style_3-5,,,,x,x,,x,x,,
+prev_squad_to_squad_play_style_4-0,,,x,,x,,x,,x,
+prev_squad_to_squad_play_style_4-1,,,x,,x,,x,,,x
+prev_squad_to_squad_play_style_4-2,,,,,x,,x,x,,
+prev_squad_to_squad_play_style_4-3,,,,,,,x,x,,
+prev_squad_to_squad_play_style_4-4,,,x,x,x,x,x,x,x,x
+prev_squad_to_squad_play_style_4-5,,,,,,x,,x,,x
+prev_squad_to_squad_play_style_5-0,,,,,x,,,,x,
+prev_squad_to_squad_play_style_5-1,,,,x,x,,x,x,,
+prev_squad_to_squad_play_style_5-2,,,,,x,,x,x,x,
+prev_squad_to_squad_play_style_5-3,,,,,,,,,,
+prev_squad_to_squad_play_style_5-4,,,,,x,,x,x,x,x
+prev_squad_to_squad_play_style_5-5,x,,x,x,x,x,x,x,x,x
+prev_league_to_league_Bundesliga-Bundesliga,x,,x,x,x,x,x,x,x,x
+prev_league_to_league_Bundesliga-La Liga,,,x,,x,,x,x,,
+prev_league_to_league_Bundesliga-Ligue 1,,,,,x,,x,x,,
+prev_league_to_league_Bundesliga-Premier League,,,,,x,,x,x,x,x
+prev_league_to_league_Bundesliga-Serie A,,,,,x,,,,,x
+prev_league_to_league_La Liga-Bundesliga,,,,,x,,x,,,
+prev_league_to_league_La Liga-La Liga,x,,x,x,x,x,x,x,x,x
+prev_league_to_league_La Liga-Ligue 1,,,,,x,,x,,,x
+prev_league_to_league_La Liga-Premier League,,,,,x,x,x,x,,
+prev_league_to_league_La Liga-Serie A,,,x,,x,,x,x,x,x
+prev_league_to_league_Ligue 1-Bundesliga,,,,,x,,,x,,x
+prev_league_to_league_Ligue 1-La Liga,,,x,,x,,x,x,,x
+prev_league_to_league_Ligue 1-Ligue 1,,,x,x,x,x,x,x,x,x
+prev_league_to_league_Ligue 1-Premier League,,,x,,x,,x,,,x
+prev_league_to_league_Ligue 1-Serie A,,,x,,,,x,x,x,
