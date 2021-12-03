@@ -1,0 +1,25 @@
+
+Viz questions for team:
+    * Should we use full measure name or abbreviation (e.g. TklW versus Tackles Won)
+    * Do we want to show our league-by-league observations? (e.g. Bundesliga creates the most goals)
+    * Finding the balance between too much info (busy viz) versus simplified. One approach: Attack vs. Defense
+
+To do:
+
+add league / position filter
+add legend of stats
+Add actual goals not just ranking
+
+
+Enhance past-future stats: currently a single line: 
+    * show more stats. is 10 too much?
+    * enhance tool tip, include team name /league name for that year
+
+Simplify skill finder further: currently splits defense vs offense:
+    * can we do all on a single chart?
+    * add League/team filter
+
+Should we do a separate filter tab?  getting complex.
+  
+Season:	<Season>
+Gls:	<SUM(Chosen Stat)>
