@@ -50,3 +50,13 @@ prev_league_to_league_Ligue 1-La Liga,,,x,,x,,x,x,,x
 prev_league_to_league_Ligue 1-Ligue 1,,,x,x,x,x,x,x,x,x
 prev_league_to_league_Ligue 1-Premier League,,,x,,x,,x,,,x
 prev_league_to_league_Ligue 1-Serie A,,,x,,,,x,x,x,
+prev_league_to_league_Premier League-Bundesliga,,,,,,,x,,,
+prev_league_to_league_Premier League-La Liga,,,,,x,,x,x,x,
+prev_league_to_league_Premier League-Ligue 1,,,x,,x,,,,,
+prev_league_to_league_Premier League-Premier League,,,x,x,x,x,x,x,x,x
+prev_league_to_league_Premier League-Serie A,,,x,,x,,x,x,,x
+prev_league_to_league_Serie A-Bundesliga,,,,,x,,x,,,
+prev_league_to_league_Serie A-La Liga,,,,,x,,x,,,
+prev_league_to_league_Serie A-Ligue 1,,,x,,x,,x,,x,
+prev_league_to_league_Serie A-Premier League,,,x,x,x,,x,,x,
+prev_league_to_league_Serie A-Serie A,,,x,x,x,x,x,x,x,x
