@@ -14,7 +14,7 @@ DESCRIPTION OF DOCUMENTS and HOW TO EXECUTE
 	`team078report.pdf` contains a 12 page report detailing project processes and findings.
 	`team078poster.pdf` shows a 1 page summary of the project used for video presentations
 
-2. CODE - this folder contains four folders: 'data-collection', 'data', 'analysis', and 'tableau'.
+2. CODE - this folder contains four folders: `data-collection`, `data`, `analysis`, and `tableau`.
 	- `data-collection` contains six python and jupyter workbooks to scrape and clean raw data. 
       - Usage order: `scrape.ipynb` first to pull data, then the two `Merging_...` files to clean the downloaded data.
 	- `data` holds stored data extracts as csv, sorted into four folders based on the stage of the analysis process. As such, user does not need to run the `data-collection` files to pull data as it is provided here.
