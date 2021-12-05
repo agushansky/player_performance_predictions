@@ -5,7 +5,7 @@ with consideration to historical player performance, team play style, and league
 To this end, the documents in this folder include Python code to scrape raw player data,
 clean data, and machine learning algorithms to model relationships and make predictions.
 
-Python, Jupyter notebooks, and Tableau are needed to run. No other installation process needed.
+Python, Jupyter Notebooks, and Tableau are needed to run. No other installation process needed.
 Should user desire to run the code to pull and manipulate data, steps are provided below, however, this is not necessary
 and tabluea public website is sufficient to view. 
 
